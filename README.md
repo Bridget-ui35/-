@@ -1,1 +1,0 @@
-@Rimchars 对阅读archive的建议，详细请见我仓库的议题
